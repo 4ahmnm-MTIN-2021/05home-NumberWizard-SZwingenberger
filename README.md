@@ -18,7 +18,7 @@ Installation process, e.g. step by step instructions that I can run the project 
 Unity Template for Unity202015f1 (2D)
 
 ### Project state: 
-1% 
+100% 
 
 ### Limitations: 
 
